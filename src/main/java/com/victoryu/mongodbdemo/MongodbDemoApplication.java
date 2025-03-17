@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * A MongoDB demo
+ * A MongoDB demo exercise
  */
 @SpringBootApplication
 public class MongodbDemoApplication {
